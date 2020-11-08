@@ -7,9 +7,6 @@ html {
     color: rgb(236,236,236);
     height: 3rem;
     line-height: 3rem;
-
-    /* padding-top: 0.5rem;
-    padding-bottom: 0.5rem;*/
 }
 
 .header__title {
@@ -85,6 +82,11 @@ h4 {
 li {
     margin-left: -1rem;
     padding: 1rem 0rem 1rem 0rem;
+}
+
+h1 {
+    font-size: 2.2rem;
+    margin-bottom: .5rem;
 }
 
 .content {
